@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperJCCPokemon</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_statistics">Statistiques</string>
+    <string name="title_parameters">Paramètres</string>
+    <string name="title_activity_statistics">Statistiques</string>
+    <string name="total">Total</string>
+    <string name = "title_activity_extension_list">Extension</string>
+    <string name="title_rarity">Raretées</string>
+    <string name="title_formats">Apparence</string>
+    <string name="title_types">Types</string>
+
+    <string name = "lang">fr</string>
+    <string name="btnGlobal">Statistiques Globales</string>
+    <string name="btnBySets">Par Extensions</string>
+</resources>
